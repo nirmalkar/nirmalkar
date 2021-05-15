@@ -1,5 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ### JAVA
+
+- 🔭 I’m currently working on ... **_VESTA_**
+- 🌱 I’m currently learning ... **JAVA**
+- 🤔 I’m looking for help with ... **JAVA**
+- 💬 Ask me about ... **Javascript**
+- 📫 How to reach me: ... [Click here!](nirmalkar.com)
 
 
 <!--
