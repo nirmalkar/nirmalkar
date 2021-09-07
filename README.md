@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=nirmalkar&color=7952B3&style=plastic)
+![](https://komarev.com/ghpvc/?username=nirmalkar&color=F05454&style=plastic)
 
 - 🔭 I’m currently working on ... **_VESTA_**
 - 💬 Ask me about ... **Javascript**
