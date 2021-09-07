@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nirmalkar&color=7952B3&style=plastic)
+
 - 🔭 I’m currently working on ... **_VESTA_**
 - 💬 Ask me about ... **Javascript**
 - 🌱 I’m currently learning ... **Spanish**
 - 📫 How to reach me: ... [Click here!](https://www.nirmalkar.com/)
-
-![](https://komarev.com/ghpvc/?username=nirmalkar&color=7952B3&style=plastic)
 
 
 <!--
