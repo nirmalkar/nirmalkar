@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning ... **Graphql**
 - 📫 How to reach me: ... [Click here!](https://www.nirmalkar.com/)
 
+![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=nirmalkar&count_private=true&show_icons=true&theme=onedark&hide=prs,issues,contribs)
+
 
 <!--
 **nirmalkar/nirmalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
