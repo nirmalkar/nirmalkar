@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... **_VESTA_**
 - 💬 Ask me about ... **Javascript**
-- 🌱 I’m currently learning ... **Graphql**
+- 🌱 I’m currently learning ... **TypeScript**
 - 🤔 I’m looking for help with ... **Open Source Contribution**
 - 📫 How to reach me: ... [Click here!](https://www.nirmalkar.com/)
 
