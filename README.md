@@ -3,7 +3,6 @@
 
 - 💬 Ask me about ... **Javascript**
 - 🌱 I’m currently learning ... **Typescript**
-- 🔭 I’m currently working on [BYJUS/MATH](https://byjus.com/math/)
 - 🤔 I’m looking for help with ... **Open Source Contribution**
 - 📫 How to reach me: ... [Click here!](https://www.nirmalkar.com/)
 
