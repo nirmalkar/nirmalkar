@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Open-source projects related to web development and DevOps automation** 
 - 🤔 I’m looking for help with: **Optimizing database queries, performance tuning in PostgreSQL, implementing DevOps pipelines, and getting started with AI/ML projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nirmalkar/) Or [My Website](https://www.nirmalkar.com/contact)**
-- ⚡ Fun fact: **I love riding bikes, outdoor adventures, and Kayaking.**
+- ⚡ Fun fact: **I love riding bikes, nature trips, and Kayaking.**
 
 
 <!--
