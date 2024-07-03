@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 
-- 💬 Ask me about ... **Javascript**
-- 🌱 I’m currently learning ... **Typescript**
-- 🤔 I’m looking for help with ... **Open Source Contribution**
-- 📫 How to reach me: ... [Click here!](https://www.nirmalkar.com/)
+- 🔭 I’m currently working on: **Developing Learn with Monty**
+- 💬 Ask me about: **Web App development | Javascript | Typescript**
+- 🌱 I’m currently learning: **Best practices for building scalable software, diving into DevOps practices, and a bit of Data Science**
+- 👯 I’m looking to collaborate on **Open-source projects related to web development and DevOps automation** 
+- 🤔 I’m looking for help with: **Optimizing database queries, performance tuning in PostgreSQL, implementing DevOps pipelines, and getting started with AI/ML projects**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nirmalkar/) || [My Website]([https://www.linkedin.com/in/nirmalkar/](https://www.nirmalkar.com/contact)**
+- ⚡ Fun fact: **I love riding bikes, outdoor adventures, and Kayaking.**
+
 
 <!--
 **nirmalkar/nirmalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
