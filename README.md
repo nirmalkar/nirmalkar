@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: **Developing Learn with Monty**
+- 🔭 I’m currently working on: **Building Learn with Monty**
 - 💬 Ask me about: **Web App development | Javascript | Typescript**
 - 🌱 I’m currently learning: **Best practices for building scalable software, diving into DevOps practices, and a bit of Data Science**
 - 👯 I’m looking to collaborate on **Open-source projects related to web development and DevOps automation** 
