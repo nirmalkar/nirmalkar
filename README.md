@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on **Open-source projects related to web development and DevOps automation** 
 - 🤔 I’m looking for help with: **implementing DevOps pipelines, and getting started with AI/ML projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nirmalkar/) Or [My Website](https://www.nirmalkar.com/contact)**
-- ⚡ Fun fact: **I love Kayaking.**
 
 
 <!--
