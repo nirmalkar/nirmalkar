@@ -1,11 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I’m Hemant Nirmalkar  
+
+**Full-stack Developer** | Passionate about building products | Always learning, always building.  
 
 
-- 💬 Ask me about: **Web App development | Javascript | Typescript**
-- 🌱 I’m currently learning: **Best practices for building scalable software, diving into DevOps practices, and a bit of Data Science**
-- 👯 I’m looking to collaborate on **Open-source projects related to web development and DevOps automation** 
-- 🤔 I’m looking for help with: **implementing DevOps pipelines, and getting started with AI/ML projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nirmalkar/) Or [My Website](https://www.nirmalkar.com/contact)**
+---
+
+## 🚀 About Me  
+-  💬 **Ask me about:** JavaScript • TypeScript • Web App Development   
+- 🤝 **Open to collaborate on:** Web App Development, DevOps, and Generative AI integration projects
+- ❓ **Looking for guidance in:** Scaling applications, setting up DevOps workflows, and making the most of Generative AI tools
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/nirmalkar/) • [Portfolio](https://www.nirmalkar.com/contact)
+
+---
+
+⚡ **Let’s connect and build something amazing!**
 
 
 <!--
