@@ -3,9 +3,9 @@
 **Full-stack Developer** | Passionate about building products | Always learning, always building.  
 
 ## About Me  
-- 💬 **Ask me about:** JavaScript • TypeScript • Web App Development  
-- 🤝 **Open to collaborate on:** Web Development • DevOps • Generative AI integrations  
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/nirmalkar/) • [Portfolio](https://www.nirmalkar.com/contact)  
+- **Ask me about:** JavaScript • TypeScript • Web App Development  
+- **Open to collaborate on:** Web Development • DevOps • Generative AI integrations  
+- **Reach me at:** [LinkedIn](https://www.linkedin.com/in/nirmalkar/) • [Portfolio](https://www.nirmalkar.com/contact)  
 
 ⚡ **Let’s connect and build something amazing!**
 
