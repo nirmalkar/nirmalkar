@@ -1,8 +1,8 @@
-## Hi, I’m Hemant Nirmalkar  
+### Hi, I’m Hemant Nirmalkar  
 
 Building **@byteScript** — your one-stop destination for learning web development.
 
-###  I work with  
+####  I work with  
 • TypeScript  • React.js • Node.js • PostgreSQL • Python
 
 
