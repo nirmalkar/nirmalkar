@@ -1,13 +1,10 @@
-# 👋 Hi, I’m Hemant Nirmalkar  
+## Hi, I’m Hemant Nirmalkar  
 
-**Full-stack Developer** | Passionate about building products | Always learning, always building.  
+Building **@byteScript** — your one-stop destination for learning web development.
 
-## About Me  
-- **Ask me about:** JavaScript • TypeScript • Web App Development  
-- **Open to collaborate on:** Web Development • DevOps • Generative AI integrations  
-- **Reach me at:** [LinkedIn](https://www.linkedin.com/in/nirmalkar/) • [Portfolio](https://www.nirmalkar.com/contact)  
+###  I work with  
+• TypeScript  • React.js • Node.js • PostgreSQL • Python
 
-**Let’s connect and build something amazing!**
 
 
 
