@@ -3,7 +3,7 @@
 Building **@byteScript** — your one-stop destination for learning web development.
 
 ####  I work with  
-• TypeScript  • React.js • Node.js • PostgreSQL • Python
+• TypeScript  • React.js • Node.js • Mysql • Python
 
 
 
