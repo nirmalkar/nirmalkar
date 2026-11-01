@@ -1,6 +1,6 @@
 ### Hi, I’m Hemant Nirmalkar  
 
-Building **@byteScript** — your one-stop destination for learning web development.
+Building **@peccu** — Your personal coach for speaking.
 
 ####  I work with  
 • TypeScript  • React.js • Node.js • Mysql • Python • AWS
